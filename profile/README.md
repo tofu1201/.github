@@ -29,7 +29,7 @@ Turning ideas into reliable products through code.
 | About | Junior high student developer (born in 2011), focused on practical software engineering and continuous improvement |
 | Core Work | Building products with Python, web technologies, backend systems, and automation workflows |
 | Interests | API design, integrations, developer tooling, and technical writing |
-| Community | SITCON 2026 (Attendee) |
+| Community | SITCON 2026 (Antendee)、CYBERSEC 2026 (Antendee) |
 
 ## Focus Areas
 
