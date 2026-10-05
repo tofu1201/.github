@@ -29,7 +29,7 @@ Turning ideas into reliable products through code.
 | About | Junior high student developer (born in 2011), focused on practical software engineering and continuous improvement |
 | Core Work | Building products with Python, web technologies, backend systems, and automation workflows |
 | Interests | API design, integrations, developer tooling, and technical writing |
-| Community | SITCON 2026 (Antendee)、CYBERSEC 2026 (Antendee) |
+| Participation | Tech conferences, camps, and workshops in Taiwan |
 
 ## Focus Areas
 
@@ -37,6 +37,31 @@ Turning ideas into reliable products through code.
 - Backend API architecture and integrations
 - Discord bot ecosystem and automation workflows
 - Technical writing and knowledge sharing
+
+## Event Participation
+
+Tech conferences, camps, and workshops I've participated in.
+
+**Selected events** · [SITCON](https://sitcon.org/) · [COSCUP](https://coscup.org/) · [SITCON CAMP](https://sitcon.camp/)
+
+<details>
+<summary>Participation history</summary>
+
+### 2026
+
+| Event | Participation |
+| --- | --- |
+| [SITCON](https://sitcon.org/2026/) | Attendee |
+| [CYBERSEC](https://cybersec.ithome.com.tw/2026/) | Attendee |
+| [Internet Week](https://internetweek.tw/2026) | Attendee |
+| [TWNOG 7](https://2026.twnog.net/) | Attendee |
+| [IPv6 Workshop](https://workshop.twnog.net/) | Learner |
+| [g0v summit](https://summit.g0v.tw/2026/) | Attendee |
+| [Computex](https://www.computextaipei.com.tw/zh-tw/index.html) | Domestic Professional / International Visitor |
+| [SITCON CAMP](https://sitcon.camp/2026/) | Learner |
+| [COSCUP](https://coscup.org) | Participant |
+
+</details>
 
 ## Tech Stack
 
