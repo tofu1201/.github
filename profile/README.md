@@ -72,17 +72,18 @@ Tech conferences, camps, and workshops I've participated in.
 ## GitHub Metrics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tofu1201&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tofu1201&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofu1201&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tofu1201&hide_border=true&theme=transparent" alt="GitHub Streak" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=tofu1201&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
+  <img width="470" src="https://trophy.ryglcloud.net/?username=tofu1201&theme=flat&no-frame=true&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tofu1201&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <a href="https://github.com/tofu1201?tab=overview">
+    <img width="100%" src="https://ghchart.rshah.org/0ea5e9/tofu1201" alt="GitHub Contribution Calendar" />
+  </a>
 </div>
 
 ## Recent Writing
